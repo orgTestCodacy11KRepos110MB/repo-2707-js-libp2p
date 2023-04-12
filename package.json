@@ -133,7 +133,7 @@
     "hashlru": "^2.3.0",
     "interface-datastore": "^7.0.0",
     "it-all": "^2.0.0",
-    "it-drain": "^2.0.0",
+    "it-drain": "^3.0.1",
     "it-filter": "^2.0.0",
     "it-first": "^2.0.0",
     "it-foreach": "^1.0.0",
